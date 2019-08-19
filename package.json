@@ -1,12 +1,12 @@
 {
-  "name": "portfolio",
+  "name": "hydroHome",
   "version": "1.0.0",
-  "description": "This is a file for my portfolio",
+  "description": "This is the hydroHomie app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Hayden Telson",
+  "author": "Team HydroHomie",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.3.1",
